@@ -15,15 +15,21 @@ Steps to follow in creating package.json, tsconfig.json, installation of node mo
 6- create index.ts (to write your code)
 <br>
 7-Run npm i --save-dev @types/inquirer
-
+<br>
 TO PUSH ON GITHUB
-
+<br>
 Create a new repository on the command line
-
+<br>
 echo "# number-guess-game" >> README.md
+<br>
 git init
+<br>
 git add README.md
+<br>
 git commit -m "first commit" or any message you want
+<br>
 git branch -M main
+<br>
 git remote add origin https://github.com/Mirza096/number-guess-game.git
+<br>
 git push -u origin main
