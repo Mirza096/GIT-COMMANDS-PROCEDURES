@@ -6,7 +6,7 @@ Steps to follow in creating package.json, tsconfig.json, installation of node mo
 <br>
 2- open that folder in VS code
 <br>
-3-Run npm init (to create package.json and follow the steps add "type": "module", below the line "main": "index.js")
+3-Run npm init -y (to create package.json and follow the steps add "type": "module", below the line "main": "index.js")
 <br>
 4-Run tsc --init (to create tsconfig.json )(make channges in "target": ES2022, NodeNext, NodeNext)
 <br>
