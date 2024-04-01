@@ -10,12 +10,15 @@ Steps to follow in creating package.json, tsconfig.json, installation of node mo
 <br>
 4-Run tsc --init (to create tsconfig.json )(make channges in "target": ES2022, NodeNext, NodeNext)
 <br>
-5- npm i inquirer (to install node_modules)
+5- npm i @types/nodes
 <br>
-6- create index.ts (to write your code)
+6- npm i inquirer (to install node_modules)
 <br>
-7-Run npm i --save-dev @types/inquirer
+7- create index.ts (to write your code)
 <br>
+8-Run npm i --save-dev @types/inquirer
+<br>
+
 TO PUSH ON GITHUB
 <br>
 Create a new repository on the command line
