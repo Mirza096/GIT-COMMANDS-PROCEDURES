@@ -33,6 +33,10 @@ git commit -m "first commit" or any message you want
 <br>
 git branch -M main
 <br>
+git branch : to check branch
+<br>
+git remote - v : to verify remote
+<br>
 git remote add origin https://github.com/Mirza096/number-guess-game.git
 <br>
 git push -u origin main
