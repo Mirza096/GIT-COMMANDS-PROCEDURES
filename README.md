@@ -40,3 +40,11 @@ git remote - v : to verify remote
 git remote add origin https://github.com/Mirza096/number-guess-game.git
 <br>
 git push -u origin main
+<br>
+NPM COMMANDS
+<br>
+NPM login : run from command prompt
+<br>
+after login in NPM, create a project file in NPM, in the second step keep a unique file name of your project file in config.json 
+<br>
+npm publish
